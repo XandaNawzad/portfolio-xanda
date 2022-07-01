@@ -1,10 +1,10 @@
 # portfolio-xanda
 
 - Proftolio website la 5 bash pek det .
-  ( home section 
-  about sectoin
-  project section
-  contact section )
+  ( Home Section,
+   About Sectoin,
+   Project Section,
+   Contact Section )
 
-- The language ( Html ,CSS, JS )
+- The language ( Html , CSS , JS )
 - CSS framework (Bootstraps )
